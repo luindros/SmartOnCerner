@@ -1,4 +1,4 @@
-SMART on Cerner application that enables a consultant to access a patient's records, view all their observations within Cerner, and interact with them. Additionally, the application allows the clinician to create new observations for the patient. This application has been created with the purpose of demonstrating how to build an SMART on EPIC application.
+SMART on Cerner application that enables a consultant to access a patient's records, view all their observations within Cerner, and interact with them. Additionally, the application allows the clinician to create new observations for the patient. This application has been created with the purpose of demonstrating how to build an SMART on CERNER application.
 
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/96c8a3db-f41f-490a-bd63-4249241b43f7" />
 
